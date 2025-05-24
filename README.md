@@ -1,5 +1,6 @@
 # PankRAG
 Modified from nano-graphrag
+
 ![overall workflow](methodology_00.png)
 
 # Contents
