@@ -17,7 +17,7 @@ PankRAG: Enhancing Graph Retrieval with Globally-Aware Query Resolution and Depe
 conda create -n PankRAG python=3.10 -y  
 conda activate PankRAG  
 pip install -r requirements.txt
-
+```bash
 ### Configuration
 
 Before running, please adjust or configure the corresponding settings in run.py and any other program files yourself—this includes the model name, api_key, etc.
