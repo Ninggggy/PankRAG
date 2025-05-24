@@ -20,8 +20,8 @@ pip install -r requirements.txt
 `````
 ### Configuration
 
-Before running, please adjust or configure the corresponding settings in run.py and any other program files yourself—this includes the model name, api_key, etc.
-
+Before running, please adjust or configure the corresponding settings in run.py and any other program files—this includes the model name, API key, etc.
+The datasets folder contains the organized dataset files, including the corpus and questions files, for your convenience.
 ### Running
 
 ```bash
